@@ -12,7 +12,7 @@ public class firstTestNg {
     @Test
     public void mytest2(){
         System.out.println(" hello Reddy2");
-
+        System.out.println(" hello Reddy2");
 
     }
 }
